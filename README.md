@@ -1,2 +1,1 @@
-# DANCES
-DANCES: Detecting and ANalysing Fast-moving Contorted Poses in Elite Sports
+# DANCES: Detecting and ANalysing Fast-moving Contorted Poses in Elite Sports
